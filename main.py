@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 ### Victor Plata
-### edr927
-### assignment 5
 ###
 ###
  
